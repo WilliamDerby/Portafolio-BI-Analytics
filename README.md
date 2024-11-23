@@ -1,4 +1,4 @@
-# Portafolio-BI-Analytics
+# Business Intelligence and Analytics Portfolio
 
 Ingeniero en gestión y optimización, especializado en el uso estratégico de datos para la toma de decisiones. Apasionado por el análisis y la resolución de problemas a través de enfoques lógicos basados en datos.
 
