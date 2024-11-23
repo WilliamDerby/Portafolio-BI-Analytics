@@ -1,7 +1,7 @@
 # Business Intelligence and Analytics Portfolio
 
-Bienvenido a mi repositorio personal en GitHub !
-Aqui encontraras proyectos que he realizado en inteligencia empresarial, analisis y visualizacion de datos utilizando bigquery y looker studio. 
+Bienvenido a mi repositorio personal en GitHub!
+Aqui conoceras sobre mí y encontraras proyectos que he realizado en inteligencia empresarial, analisis y visualizacion de datos utilizando bigquery y looker studio. 
 
 # Sobre mí
 
