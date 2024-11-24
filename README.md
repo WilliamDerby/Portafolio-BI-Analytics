@@ -15,7 +15,7 @@ En mi tiempo libre busco momentos para seguir estudiando y expendir mis conocimi
 ## [SCANNER EMPRESAS 360](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/README.md)
 ## VIGILANCIA FUGA EMPRESAS
 ## PRUEBA DIPLOMADO: PREDICCION DE REPLICACION FAKE NEWS
-## PROYECTO INMOBILIARIO
+## PROYECTO INMOBILIARIO o RADIAL SUCURSAL
 ## SEGURIDAD INTEGRAL
 
 
