@@ -1,6 +1,6 @@
 # Business Intelligence and Analytics Portfolio
 
-Bienvenido a mi repositorio personal en GitHub!  Aqui conoceras sobre mí y encontraras proyectos que he realizado en inteligencia empresarial, analisis y visualizacion de datos.
+Bienvenido a mi repositorio personal en GitHub! <br> Aqui conoceras sobre mí y encontraras proyectos que he realizado en inteligencia empresarial, analisis y visualizacion de datos.
 
 # Sobre mí
 
