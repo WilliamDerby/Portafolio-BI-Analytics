@@ -9,3 +9,14 @@ Titulado de Ingenieria Civil en gestión y optimización. Luego de titularme com
 Me he destacado por establecer relaciones interpersonales sólidas y fomentar un ambiente de trabajo colaborativo y positivo. Soy altamente comprometido, con un fuerte sentido de lealtad hacia los proyectos en los que participo, asegurando un desempeño excepcional.
 
 En mi tiempo libre busco momentos para seguir estudiando y expendir mis conocimientos en el mundo de los datos. Fan de mi familia, el deporte y los estudios. :nerd_face: 
+
+# Proyectos
+
+## SCANNER EMPRESAS 360
+## VIGILANCIA FUGA EMPRESAS
+## PRUEBA DIPLOMADO: PREDICCION DE REPLICACION FAKE NEWS
+## PROYECTO INMOBILIARIO
+## SEGURIDAD INTEGRAL
+
+
+
