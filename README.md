@@ -10,13 +10,13 @@ Me he destacado por establecer relaciones interpersonales sólidas y fomentar un
 
 En mi tiempo libre busco momentos para seguir estudiando y expendir mis conocimientos en el mundo de los datos. Fan de mi familia, el deporte y los estudios. :nerd_face: 
 
-# Proyectos
+## Proyectos
 
-## [SCANNER EMPRESAS 360](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/README.md)
-## VIGILANCIA FUGA EMPRESAS
-## PRUEBA DIPLOMADO: PREDICCION DE REPLICACION FAKE NEWS
-## PROYECTO INMOBILIARIO o RADIAL SUCURSAL
-## SEGURIDAD INTEGRAL
+### [SCANNER EMPRESAS 360](https://github.com/WilliamDerby/Dashboard-Scanner360/blob/main/README.md)
+### VIGILANCIA FUGA EMPRESAS
+### PRUEBA DIPLOMADO: PREDICCION DE REPLICACION FAKE NEWS
+### PROYECTO INMOBILIARIO o RADIAL SUCURSAL
+### SEGURIDAD INTEGRAL
 
 
 
