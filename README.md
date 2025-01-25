@@ -2,7 +2,7 @@
 
 Bienvenido a mi repositorio personal en GitHub! <br> Aqui conoceras sobre mí y encontraras proyectos que he realizado en inteligencia empresarial, analisis y visualizacion de datos.
 
-# Sobre mí
+## Sobre mí
 
 Titulado de Ingenieria Civil en gestión y optimización. Luego de titularme comence a especializarme en el uso estratégico de datos para la toma de decisiones. Soy un apasionado por el análisis y la resolución de problemas a través de enfoques lógicos basados en datos.
 
