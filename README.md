@@ -8,7 +8,7 @@ Titulado de Ingenieria Civil en gestión y optimización. Luego de titularme com
 
 Me gusta establecer relaciones interpersonales sólidas y fomentar un ambiente de trabajo colaborativo y positivo. Soy una persona comprometida, con sentido de lealtad hacia los proyectos en los que participo, incentivando el mejor desempeño.
 
-En mi tiempo libre busco momentos para seguir estudiando y expendir mis conocimientos en el mundo de los datos. Fan de mi familia, el deporte y los estudios.
+Mi tiempo libre lo dedico a mi familia, el deporte y estudios (enfocado en los datos y habilidades blandas tal como negociación)
 
 ## Proyectos
 
