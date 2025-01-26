@@ -6,9 +6,9 @@ Bienvenido a mi repositorio personal en GitHub! <br> Aqui conoceras sobre mí y 
 
 Titulado de Ingenieria Civil en gestión y optimización. Luego de titularme comence a especializarme en el uso estratégico de datos para la toma de decisiones. Soy un apasionado por el análisis y la resolución de problemas a través de enfoques lógicos basados en datos.
 
-Me he destacado por establecer relaciones interpersonales sólidas y fomentar un ambiente de trabajo colaborativo y positivo. Soy altamente comprometido, con un fuerte sentido de lealtad hacia los proyectos en los que participo, asegurando un desempeño excepcional.
+Me gusta establecer relaciones interpersonales sólidas y fomentar un ambiente de trabajo colaborativo y positivo. Soy una persona comprometida, con sentido de lealtad hacia los proyectos en los que participo, incentivando el mejor desempeño.
 
-En mi tiempo libre busco momentos para seguir estudiando y expendir mis conocimientos en el mundo de los datos. Fan de mi familia, el deporte y los estudios. :nerd_face: 
+En mi tiempo libre busco momentos para seguir estudiando y expendir mis conocimientos en el mundo de los datos. Fan de mi familia, el deporte y los estudios.
 
 ## Proyectos
 
